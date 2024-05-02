@@ -5,7 +5,7 @@ The design is inspired by the last episode of the Netflix series "The Three-Body
 The series features high-quality visual effects and intricate designs that vividly bring a complex sci-fi world to life on the Web which aligns with our course content.  I aim to draw from these visual elements in my creative coding project, using programmatically generated graphics and animations to enhance the immersive and interactive experience of my artwork.
 
 ![Scene1 Launching Image](readme_images/rocket.png)
-![Scene2 Outer Space Travelling](readme_images/solar.png)
+![Scene2 Outer Space Travelling](readme_images/solar.jpg)
 
 
 ## Part2 Technique Exploration 
